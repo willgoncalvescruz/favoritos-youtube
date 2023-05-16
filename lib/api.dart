@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 
 // ignore: constant_identifier_names
 const api_key =
-    "WGC_AIzaSyBNpzrbaPbdu-u7b3yMEXl4AEX_ExHpJHU"; //api gerado no console.cloud.google youtube
+    "WGCAIzaSyBNpzrbaPbdu-u7b3yMEXl4AEX_ExHpJHUCGW"; //api gerado no console.cloud.google youtube
 
 class Api {
   String _search;
